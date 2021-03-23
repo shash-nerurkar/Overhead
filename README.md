@@ -135,8 +135,6 @@
       <a href='https://github.com/Rain1213'> Rain1213 </a>
       <br/>
       <a href='https://github.com/edgeemperor'> edgeemperor </a>
-      <br/>
-      <a href='https://github.com/d35r0n'> d35r0n </a>
   </p>
    
    
