@@ -1,0 +1,11 @@
+#version 120
+	
+uniform float opacity;
+uniform float red;
+uniform float blue;
+uniform float green;
+
+
+void main() {
+	gl_FragColor = vec4(red,green,blue,opacity);
+}
