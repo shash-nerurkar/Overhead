@@ -1,5 +1,5 @@
 
-  <img src="readme_assets/intro.png" alt="intro" width='100%' height='auto'/>
+  <img src="readme_assets/intro.png" alt="intro" width='80%' height='auto'/>
   <p align='justify'>
       Overhead is a rudimentary game engine, made using Java SE8, LWJGL (Light Weight Java Gaming Library) and JOML (Java OpenGL Math Library). 
       It is equipped with:
@@ -51,7 +51,7 @@
   <p align='justify'>
       1. An independent window is initialised. For those familiar with Windows forms, this is a classic SDI Win-form.
   </p>
-  <img src='readme_assets\story_1.png' alt="story_1" width='auto' height='80%'/>
+  <img src='readme_assets\story_1.png' alt="story_1" width='auto' height='70%'/>
   
   <p align='justify'>
       2.The player is an entity. It has its anims set by the animation system, which has the options to add new anims (this example only has an idle and running animation). It           also has a collidable.
@@ -141,7 +141,6 @@
   <h1> Deployment </h1>
   <p align='justify'>
       There is no implementation for a sophisticated deployment system. 
-      <br /> 
       One can pack and encrypt all files in order except the Overhead.java file, to make it a faux-deployed application.
   </p>
    
