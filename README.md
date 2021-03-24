@@ -68,23 +68,6 @@
   </p>
   <img src='readme_assets\story_5.png' alt="story_5" width='70%' height='auto'/>
   
-  <p>
-      ..or converge.
-  </p>
-  <img src='readme_assets\story_6.png' alt="story_5" width='70%' height='auto'/>
-  
-  <p>
-      Time is ever-flowing. Without it, Man cannot exist.
-  </p>
-  <img src='readme_assets\story_7.png' alt="story_5" width='70%' height='auto'/>
-  
-  <p>
-      At the end of Man's journey, God welcomes him warmly. The pain of choice and the shackles of regret are undone.
-  </p>
-  <img src='readme_assets\story_8.png' alt="story_5" width='70%' height='auto'/>
-  <br/> <br/>
-  <img src='readme_assets\story_9.png' alt="story_5" width='70%' height='auto'/>
-  
   
   
   <h1> Prerequisites </h1>
@@ -134,13 +117,13 @@
   <h1> Built with </h1>
   <ul>
       <li>
-        <a href='https://www.lwjgl.org/download'> LWJGL </a>
+        <a href='https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers'> Eclipse IDE for Java </a>
       </li>
       <li>
         <a href='https://www.lwjgl.org/download'> LWJGL </a>
       </li>
       <li>
-        <a href='https://www.lwjgl.org/download'> LWJGL </a>
+        <a href='https://jar-download.com/?search_box=joml'> JOML </a>
       </li>
   </ul>
    
@@ -148,9 +131,9 @@
    
   <h1> Co-authors </h1>
   <p>
-      <a href='https://github.com/Rain1213'> Rain1213 </a>
+      <a href='https://github.com/smitp1402'> Smit Panchal </a>
       <br/>
-      <a href='https://github.com/edgeemperor'> edgeemperor </a>
+      <a href='https://github.com/edgeemperor'> Sanpreet Singh Gill </a>
   </p>
    
    
