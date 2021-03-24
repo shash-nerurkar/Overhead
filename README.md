@@ -51,22 +51,29 @@
   <p>
       Upon Man, God bestowed the flower of Desire. Man gladly accepted, unbeknownst of its shackles.
   </p>
-  <img src='readme_assets\story_2.png' alt="story_2" width='70%' height='auto'/>
+  <img src='readme_assets\story_2.gif' alt="story_2" width='70%' height='auto'/>
   
   <p>
       Truth is omnipresent. It manifests one of the many paths that Man has. 
   </p>
-  <img src='readme_assets\story_3.png' alt="story_3" width='70%' height='auto'/>
+  <img src='readme_assets\story_3.gif' alt="story_3" width='70%' height='auto'/>
   
   <p>
       Man is a slave to his Desire.
   </p>
-  <img src='readme_assets\story_4.png' alt="story_4" width='70%' height='auto'/>
+  <img src='readme_assets\story_4.gif' alt="story_4" width='70%' height='auto'/>
   
   <p>
     The paths of Truth & Desire may diverge...
   </p>
-  <img src='readme_assets\story_5.png' alt="story_5" width='70%' height='auto'/>
+  <img src='readme_assets\story_5.gif' alt="story_5" width='70%' height='auto'/>
+  
+  <p>
+      There are 4 entities, God, Time, Truth and Man. 
+      <br/> <br/>
+      God created Time, so Man could flow in the river of existence. God created Truth, so Man could fight it's ripple. But, God never told Man of their presence. 
+  </p>
+  <img src='readme_assets\story_6.png' alt="story_6" width='70%' height='auto'/>
   
   
   
