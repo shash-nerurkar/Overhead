@@ -1,11 +1,42 @@
 
-  <img src="readme_assets/intro.gif" alt="intro" width='100%' height='auto'/>
+  <img src="readme_assets/intro.png" alt="intro" width='100%' height='auto'/>
   <p>
-      God has created the ever-flowing river of Time and omnipresent gust of Truth. 
-      Torn by Desire, Man scours the world for an answer. 
-      What is right, and which is the path of Truth? Only Time will tell.
+      Overhead is a rudimentary game engine, made using Java SE8, LWJGL (Light Weight Java Gaming Library) and JOML (Java OpenGL Math Library). 
+      It is equipped with:
+      <ol>
+        <li>
+          an entity system
+        </li>
+        <li>
+          an animation system
+        </li>
+        <li>
+          a collision system
+        </li>
+        <li>
+          a tileset system
+        </li>
+        <li>
+          a texture system
+        </li>
+        <li>
+          a world
+        </li>
+        <li>
+          an input handler
+        </li>
+        <li>
+          a camera
+        </li>
+        <li>
+          shaders
+        </li>
+        <li>
+          a screen tile renderer
+        </li>
+     </ol>  
   </p>
-  <a href='https://www.youtube.com/watch?v=BIx0HM_9wcU'>Trailer</a>
+  <a href='https://www.youtube.com/watch?v=oxdO2_ccgTQ'>Trailer</a>
   
   
   
