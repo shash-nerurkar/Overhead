@@ -25,7 +25,7 @@ public class Player extends Entity{
 		super(ANIM_SIZE, transform);
 		
 		setAnimation(ANIM_IDLE, new Animation(1, 2, "player/idle"));
-		setAnimation(ANIM_WALK, new Animation(4, 60, "player/walking"));
+		setAnimation(ANIM_WALK, new Animation(4, 58, "player/walking"));
 	}
 
 	@Override
