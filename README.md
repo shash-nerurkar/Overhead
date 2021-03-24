@@ -41,30 +41,45 @@
   
   
   <h1> Gallery </h1>
+  <h3> This is a gallery for Overhead: The Game (a small game made in Overhead: The Engine) </h3>
+  
+  <h6>
+      Overhead: The game is a short maze. The player has to navigate through it. 
+      <br />
+      The sole purpose of this game is to test the functionalities of the Engine.
+  </h6>
+  
+  <br /><br />
   <p>
-      There are 4 entities, God, Time, Truth and Man. 
-      <br/> <br/>
-      God created Time, so Man could flow in the river of existence. God created Truth, so Man could fight it's ripple. But, God never told Man of their presence. 
+      1. An independent window is initialised. For those familiar with Windows forms, this is a classic SDI Win-form.
   </p>
   <img src='readme_assets\story_1.png' alt="story_1" width='70%' height='auto'/>
   
   <p>
-      Upon Man, God bestowed the flower of Desire. Man gladly accepted, unbeknownst of its shackles.
-  </p>
-  <img src='readme_assets\story_2.gif' alt="story_2" width='70%' height='auto'/>
-  
-  <p>
-      Truth is omnipresent. It manifests one of the many paths that Man has. 
-  </p>
-  <img src='readme_assets\story_3.gif' alt="story_3" width='70%' height='auto'/>
-  
-  <p>
-      Man is a slave to his Desire.
+      2.The player is an entity. It has its anims set by the animation system, which has the options to add new anims (this example only has an idle and running animation). It           also has a collidable.
+      <br />
+      3. Input is handled by the Input.java class. It too can be customised for additional input events.
+      <br />
+      4. An entity for the floor is also present. It does not have a collidable attached, so the player can walk on it.
   </p>
   <img src='readme_assets\story_4.gif' alt="story_4" width='70%' height='auto'/>
   
   <p>
-    The paths of Truth & Desire may diverge...
+      5.ere is an entity for the walls, with its collidable. The player and the walls are in the same collision layer, and hence they collide.
+      <br />
+      6. The collidable work through the concept of Axis Aligned Bounding Boxes (AABB).
+  </p>
+  <img src='readme_assets\story_2.gif' alt="story_2" width='70%' height='auto'/>
+  
+  <p>
+      7. A camera is also initialised. It is made to follow the player, with smoothness. There is also a 'blind region', wherein if player moves, the camera will not budge.
+      <br />
+      8. There are also bounds to the world, inside which the camera is wrapped. That is, if the player reaches the edges of the world, the camera stops moving.
+  </p>
+  <img src='readme_assets\story_3.gif' alt="story_3" width='70%' height='auto'/>
+  
+  <p>
+      8. The viewport (area visible inside the camera) is the only place where the textures are rendered. Everywhere outside the camera is not rendered. This is an attempt at            hyper-efficiency for the largest of in-game worlds.
   </p>
   <img src='readme_assets\story_5.gif' alt="story_5" width='70%' height='auto'/>
   
