@@ -108,27 +108,29 @@
   
   <h1> Getting Started </h1>
   <p align='justify'>
-      1. Start up the engine (run the exe file, which in my case is Godot_v3.2.1-stable_win64.exe)
-  </p>
-
-  <p align='justify'>
-      2. Select the 'Import' option 
+      1. Start up eclipse. In the toolbar, go to 'File' -> 'Open Projects from File System'.
   </p>
   <img src='readme_assets\getting_started_1.png' alt="getting_started_1" width='80%' height='auto'/>
-    
+
   <p align='justify'>
-      3. Browse to where the project has been downloaded
-  </p>
-    
-  <p align='justify'>
-      4. Select the 'project.godot' file, and open it
+      2. Navigate to the folder *which is the parent* of the folder which has all project files*. Select that folder.
   </p>
   <img src='readme_assets\getting_started_2.png' alt="getting_started_2" width='80%' height='auto'/>
     
   <p align='justify'>
-      5. Press the 'Play' button in the top right
+      3. Select the option 'Search for nested projects' (beware, this option loads all project in the selected folder). Press 'Finish'.
   </p>
   <img src='readme_assets\getting_started_3.png' alt="getting_started_3" width='80%' height='auto'/>
+    
+  <p align='justify'>
+      4. In the Package Explorer, navigate through Overhead -> src -> game -> Overhead.java
+  </p>
+  <img src='readme_assets\getting_started_4.png' alt="getting_started_4" width='80%' height='auto'/>
+    
+  <p align='justify'>
+      5. Press the 'Run' button as shown in the image
+  </p>
+  <img src='readme_assets\getting_started_5.png' alt="getting_started_5" width='80%' height='auto'/>
     
   <p align='justify'>
       Enjoy! <a href='https://www.eclipse.org/getting_started/'>Operating through Eclipse</a> is a breeze.
