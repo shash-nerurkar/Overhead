@@ -84,11 +84,9 @@
   <img src='readme_assets\story_5.gif' alt="story_5" width='70%' height='auto'/>
   
   <p>
-      There are 4 entities, God, Time, Truth and Man. 
-      <br/> <br/>
-      God created Time, so Man could flow in the river of existence. God created Truth, so Man could fight it's ripple. But, God never told Man of their presence. 
+      9. The renderer, animations, and basically everything works at the same refresh-rate. This is set up using pretty standard timer and interval logic. 
   </p>
-  <img src='readme_assets\story_6.png' alt="story_6" width='70%' height='auto'/>
+  <img src='readme_assets\story_6.png' alt="story_6" width='auto' height='70%'/>
   
   
   
