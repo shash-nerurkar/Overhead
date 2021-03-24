@@ -84,14 +84,27 @@
   <img src='readme_assets\story_5.gif' alt="story_5" width='70%' height='auto'/>
   
   <p>
-      9. The renderer, animations, and basically everything works at the same refresh-rate. This is set up using pretty standard timer and interval logic. 
+      9. The renderer, animations, and basically everything that needs work frame-by-frame works at the same refresh-rate. This is set up using pretty standard timer and                  interval logic. Here, it is capped at 60 fps (customisable).
   </p>
   <img src='readme_assets\story_6.png' alt="story_6" width='auto' height='70%'/>
   
   
   
   <h1> Prerequisites </h1>
-  <a href='https://godotengine.org/download/windows'> Godot game engine ver3.2.1 </a>
+  <ul>
+      <li>
+        <a href='https://www.oracle.com/in/java/technologies/javase/javase-jdk8-downloads.html'> Java SE8 SDK </a>
+      </li>
+      <li>
+        <a href='https://www.eclipse.org/downloads/packages/release/kepler/sr1/eclipse-ide-java-developers'> Eclipse IDE for Java </a>
+      </li>
+      <li>
+        <a href='https://www.lwjgl.org/download'> LWJGL </a>
+      </li>
+      <li>
+        <a href='https://jar-download.com/?search_box=joml'> JOML </a>
+      </li>
+  </ul>
   
   
   
