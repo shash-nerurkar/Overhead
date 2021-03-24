@@ -55,7 +55,7 @@
   </p>
   <img align='center' src='readme_assets\story_1.png' alt="story_1" width='70%' height='auto'/>
   
-  <p>
+  <p align='center' >
       2.The player is an entity. It has its anims set by the animation system, which has the options to add new anims (this example only has an idle and running animation). It           also has a collidable.
       <br />
       3. Input is handled by the Input.java class. It too can be customised for additional input events.
