@@ -53,7 +53,7 @@
   <p>
       1. An independent window is initialised. For those familiar with Windows forms, this is a classic SDI Win-form.
   </p>
-  <img src='readme_assets\story_1.png' alt="story_1" width='70%' height='auto'/>
+  <img align='center' src='readme_assets\story_1.png' alt="story_1" width='70%' height='auto'/>
   
   <p>
       2.The player is an entity. It has its anims set by the animation system, which has the options to add new anims (this example only has an idle and running animation). It           also has a collidable.
@@ -62,31 +62,31 @@
       <br />
       4. An entity for the floor is also present. It does not have a collidable attached, so the player can walk on it.
   </p>
-  <img src='readme_assets\story_4.gif' alt="story_4" width='70%' height='auto'/>
+  <img align='center' src='readme_assets\story_4.gif' alt="story_4" width='70%' height='auto'/>
   
   <p>
       5.There is an entity for the walls, with its collidable. The player and the walls are in the same collision layer, and hence they collide.
       <br />
       6. The collidable work through the concept of Axis Aligned Bounding Boxes (AABB).
   </p>
-  <img src='readme_assets\story_3.gif' alt="story_3" width='70%' height='auto'/>
+  <img align='center' src='readme_assets\story_3.gif' alt="story_3" width='70%' height='auto'/>
   
   <p>
       7. A camera is also initialised. It is made to follow the player, with smoothness. There is also a 'blind region', wherein if player moves, the camera will not budge.
       <br />
       8. There are also bounds to the world, inside which the camera is wrapped. That is, if the player reaches the edges of the world, the camera stops moving.
   </p>
-  <img src='readme_assets\story_2.gif' alt="story_2" width='70%' height='auto'/>
+  <img align='center' src='readme_assets\story_2.gif' alt="story_2" width='70%' height='auto'/>
   
   <p>
       8. The viewport (area visible inside the camera) is the only place where the textures are rendered. Everywhere outside the camera is not rendered. This is an attempt at            hyper-efficiency for the largest of in-game worlds.
   </p>
-  <img src='readme_assets\story_5.gif' alt="story_5" width='70%' height='auto'/>
+  <img align='center' src='readme_assets\story_5.gif' alt="story_5" width='70%' height='auto'/>
   
   <p>
       9. The renderer, animations, and basically everything that needs work frame-by-frame works at the same refresh-rate. This is set up using pretty standard timer and                  interval logic. Here, it is capped at 60 fps (customisable).
   </p>
-  <img src='readme_assets\story_6.png' alt="story_6" width='auto' height='70%'/>
+  <img align='center' src='readme_assets\story_6.png' alt="story_6" width='auto' height='70%'/>
   
   
   
@@ -116,7 +116,7 @@
   <p>
       2. Select the 'Import' option 
   </p>
-  <img src='readme_assets\getting_started_1.png' alt="getting_started_1" width='80%' height='auto'/>
+  <img align='center' src='readme_assets\getting_started_1.png' alt="getting_started_1" width='80%' height='auto'/>
     
   <p>
       3. Browse to where the project has been downloaded
@@ -125,12 +125,12 @@
   <p>
       4. Select the 'project.godot' file, and open it
   </p>
-  <img src='readme_assets\getting_started_2.png' alt="getting_started_2" width='80%' height='auto'/>
+  <img align='center' src='readme_assets\getting_started_2.png' alt="getting_started_2" width='80%' height='auto'/>
     
   <p>
       5. Press the 'Play' button in the top right
   </p>
-  <img src='readme_assets\getting_started_3.png' alt="getting_started_3" width='80%' height='auto'/>
+  <img align='center' src='readme_assets\getting_started_3.png' alt="getting_started_3" width='80%' height='auto'/>
     
   <p>
       Enjoy! <a href='https://www.eclipse.org/getting_started/'>Operating through Eclipse</a> is a breeze.
