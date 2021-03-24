@@ -116,7 +116,7 @@
   <p>
       2. Select the 'Import' option 
   </p>
-  <img src='readme_assets\getting_started_1.png' alt="getting_started_1"/>
+  <img src='readme_assets\getting_started_1.png' alt="getting_started_1" width='80%' height='auto'/>
     
   <p>
       3. Browse to where the project has been downloaded
@@ -125,12 +125,12 @@
   <p>
       4. Select the 'project.godot' file, and open it
   </p>
-  <img src='readme_assets\getting_started_2.png' alt="getting_started_2"/>
+  <img src='readme_assets\getting_started_2.png' alt="getting_started_2" width='80%' height='auto'/>
     
   <p>
       5. Press the 'Play' button in the top right
   </p>
-  <img src='readme_assets\getting_started_3.png' alt="getting_started_3"/>
+  <img src='readme_assets\getting_started_3.png' alt="getting_started_3" width='80%' height='auto'/>
     
   <p>
       Enjoy! <a href='https://www.eclipse.org/getting_started/'>Operating through Eclipse</a> is a breeze.
