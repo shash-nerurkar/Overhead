@@ -41,10 +41,10 @@
   
   
   <h1> Gallery </h1>
-  <h3> This is a gallery for Overhead: The Game (a small game made in Overhead: The Engine) </h3>
+  <h3> This is a gallery for Overhead: The Game </h3>
   
   <h6>
-      Overhead: The game is a short maze. The player has to navigate through it. The sole purpose of this game is to test the functionalities of the Engine.
+      Overhead: The game is a short maze. The player has to navigate through it. The game is designed completely in Overhead: The Engine. Its sole purpose is to test the               functionalities of the Engine.
   </h6>
   
   <br />
