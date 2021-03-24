@@ -107,7 +107,7 @@
   <img src='readme_assets\getting_started_3.png' alt="getting_started_3"/>
     
   <p>
-      Enjoy! <a style="display: inline" href='https://docs.godotengine.org/en/stable/index.html'>Operating through Godot</a> is a breeze.
+      Enjoy! <a href='https://www.eclipse.org/getting_started/'>Operating through Eclipse</a> is a breeze.
   </p>
   
   
