@@ -65,18 +65,18 @@
   <img src='readme_assets\story_4.gif' alt="story_4" width='70%' height='auto'/>
   
   <p>
-      5.ere is an entity for the walls, with its collidable. The player and the walls are in the same collision layer, and hence they collide.
+      5.There is an entity for the walls, with its collidable. The player and the walls are in the same collision layer, and hence they collide.
       <br />
       6. The collidable work through the concept of Axis Aligned Bounding Boxes (AABB).
   </p>
-  <img src='readme_assets\story_2.gif' alt="story_2" width='70%' height='auto'/>
+  <img src='readme_assets\story_3.gif' alt="story_3" width='70%' height='auto'/>
   
   <p>
       7. A camera is also initialised. It is made to follow the player, with smoothness. There is also a 'blind region', wherein if player moves, the camera will not budge.
       <br />
       8. There are also bounds to the world, inside which the camera is wrapped. That is, if the player reaches the edges of the world, the camera stops moving.
   </p>
-  <img src='readme_assets\story_3.gif' alt="story_3" width='70%' height='auto'/>
+  <img src='readme_assets\story_2.gif' alt="story_2" width='70%' height='auto'/>
   
   <p>
       8. The viewport (area visible inside the camera) is the only place where the textures are rendered. Everywhere outside the camera is not rendered. This is an attempt at            hyper-efficiency for the largest of in-game worlds.
