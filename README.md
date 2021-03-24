@@ -124,38 +124,23 @@
   
   <h1> Deployment </h1>
   <p>
-      1. Start up the engine. Make sure to pick the correct project.godot file.
-      <br/>
-      2. In the top-left, under the 'Project' section, select subsection 'Export..'. 
+      There is no implementation for a sophisticated deployment system. 
+      <br /> 
+      One can pack and encrypt all files in order except the Overhead.java file, to make it a faux-deployed application.
   </p>
-  <img src='readme_assets\deployment_1.png' alt="deployment_1"/>
-
-  <p>
-      3. A window will open. Pick the correct deployment environment (Windows desktop, in this case).
-  </p>
-  <img src='readme_assets\deployment_2.png' alt="deployment_2"/>
-    
-  <p>
-      4. Browse to where you want to deploy the game
-  </p>
-  <img src='readme_assets\deployment_3.png' alt="deployment_3"/>
-    
-  <p>
-      5. Make sure you want to set your desired options here (for example, you may set the deployed application icon here).
-      <br/>
-      6. Deploy it.
-  </p>
-  <img src='readme_assets\deployment_4.png' alt="deployment_4"/>
    
    
    
   <h1> Built with </h1>
   <ul>
       <li>
-        Godot Engine ver3.2.1
+        <a href='https://www.lwjgl.org/download'> LWJGL </a>
       </li>
       <li>
-      Aseprite ver1.1.6
+        <a href='https://www.lwjgl.org/download'> LWJGL </a>
+      </li>
+      <li>
+        <a href='https://www.lwjgl.org/download'> LWJGL </a>
       </li>
   </ul>
    
@@ -172,5 +157,5 @@
    
   <h1> Acknowledgments </h1>
   <p>
-      This game was inspired entirely by Talib Kweli's verse on <a href='https://youtu.be/-DY94XFbocU?t=137'>The Truth by Pharoahe Monch</a>.
+      Taught completely by the YouTube course <a href='https://www.youtube.com/watch?v=VH9KAhjXVFM&list=PLILiqflMilIxta2xKk2EftiRHD4nQGW0u'>game development in LWJGL by Warmful       Development</a>.
   </p>
